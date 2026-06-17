@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # CAPM
 Capital Asset pricing model: 
 =======
->>>>>>> 0d79221 (Initial commit of local project code)
 CAPM example package
 =====================
 
