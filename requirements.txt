@@ -1,0 +1,6 @@
+pandas==2.1.0   # Data manipulation & time-series handling
+numpy==1.26.0   # Matrix operations and numerical calculations
+matplotlib==3.8.0  # Static plotting of Security Characteristic Lines (SCL)
+scipy>=1.9       # Statistical tests for alpha significance (t-stats, p-values)
+statsmodels>=0.14  # Regression and summary statistics
+yfinance>=0.2.0    # Optional: fetch historical price data from Yahoo Finance
